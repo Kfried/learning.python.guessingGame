@@ -1,0 +1,7 @@
+This is a game for guessing a number:
+.The Number shall be between 1 and 100
+.The player may choose the difficulty Easy or Hard
+.The player is informed if the guess is correct or not and if the guess is higher or lower than the target
+.The number of lives is reduced for a failed attempt
+.The player is informaed if they get it right
+.The player is informed if they do not get the number in time
